@@ -1,2 +1,2 @@
 # mdl-rails
-Material Design Light for Rails
+Material Design Lite for Rails
